@@ -1,7 +1,7 @@
 {
   "apiVersion": 3,
-  "name": "coetrappers/gutenberg-block-starter",
-  "title": "Coetrappers Gutenberg Block Starter",
+  "name": "codetrappers/gutenberg-block-starter",
+  "title": "Codetrappers Gutenberg Block Starter",
   "category": "widgets",
   "icon": "screenoptions",
   "editorScript": "file:./build/index.js",

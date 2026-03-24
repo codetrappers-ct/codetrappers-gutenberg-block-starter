@@ -1,12 +1,12 @@
-# Coetrappers Gutenberg Block Starter
+# Codetrappers Gutenberg Block Starter
 
-`coetrappers-gutenberg-block-starter` is a gutenberg block starter for the Coetrappers project set.
+`codetrappers-gutenberg-block-starter` is a gutenberg block starter for the Codetrappers project set.
 Starter repository for custom Gutenberg block development.
 The codebase is scaffolded to be a clean starting point, not a complete production feature.
 
 ## Project Summary
 
-- Slug: `coetrappers-gutenberg-block-starter`
+- Slug: `codetrappers-gutenberg-block-starter`
 - Type: Gutenberg block starter
 - Focus: gutenberg, blocks, starter
 
